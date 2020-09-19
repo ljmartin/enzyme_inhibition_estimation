@@ -1,0 +1,12 @@
+name: estimate_ki
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - jupyter
+  - pandas
+  - matplotlib
+  - altair
+  - numpy
+  - scipy
+
